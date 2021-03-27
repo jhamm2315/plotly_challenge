@@ -1,6 +1,6 @@
 # Plot.ly Homework (Week 15 HW) - Belly Button Biodiversity
 
-![PetriPage](bacteria.jpg)\
+![PetriPage](bacteria.jpg)
 
 
 In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
