@@ -10,7 +10,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 #### Methods Used
 HTML/Bootstrap, JavaScript Library Plotly, Python\
 I used Plotyly to create charts exploring the provided data and apply the app to an interactive dashboard
-Webiste is deployed on GitHub Pages: https://sarahz22.github.io/Plotly-challenge/
+Webiste is deployed on GitHub Pages: https://jhamm2315.github.io/plotly_challenge/
 
 
 ##### About the Data
