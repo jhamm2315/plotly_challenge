@@ -17,5 +17,5 @@ Webiste is deployed on GitHub Pages: https://jhamm2315.github.io/plotly_challeng
 
 
 ##### About the Data
-Hulcr, J. et al.(2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. \
+Hulcr, J. et al.(2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable.\
 Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
