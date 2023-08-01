@@ -1,4 +1,4 @@
-# Plot.ly Homework (Week 15 HW) - Belly Button Biodiversity
+# Plot.ly - Belly Button Biodiversity
 
 <p align="center">
   <img width="400" height="200" src="bacteria.jpg">
